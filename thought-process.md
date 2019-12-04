@@ -3,6 +3,7 @@
 This application is made using pure VanillaJs.
 
 <img src="./styles/assets/img.png">
+
 ## Instructions
 
 - Install live-server & hit ```live-server``` command 
