@@ -12,7 +12,8 @@
 
 .app-heading {
   display: flex;
-  justify-content: center;
+  justify-content: space-between;
+  padding: 20px 25px;
 }
 
 .task-list {
@@ -61,11 +62,11 @@
   width: 0 !important;
 }
 
-.btn-container {
+/* .btn-container {
   display: flex;
   justify-content: flex-end;
   margin-right: 80px;
-}
+} */
 
 .btn {
   color: #fff !important;
