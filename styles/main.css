@@ -68,7 +68,7 @@
   margin-right: 80px;
 } */
 
-.btn {
+button {
   color: #fff !important;
   text-transform: uppercase;
   background: #60a3bc;
@@ -94,7 +94,7 @@
   width: 90px !important;
 }
 
-.heading {
+h1 {
   font-family: 'Roboto', sans-serif;
   color: #60a3bc;
   font-size: 50px;
