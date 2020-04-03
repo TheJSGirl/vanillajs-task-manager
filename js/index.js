@@ -3,6 +3,11 @@ let taskHolderCount = 0;
 let taskCount = 0;
 let selectedCountId = 0;
 
+const btn = document.getElementById('btn');
+
+btn.addEventListener('click', () => {
+  createList();
+})
 function onChangeColor(event) {
   const parentNode = document.getElementById(event.target.id);
   const optionValue = parentNode.options[parentNode.selectedIndex].value;
