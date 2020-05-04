@@ -11,15 +11,14 @@ This application is made using pure VanillaJs.
 
 It's a basic task-manger application which has following functionality:
 
-``` 
-    - Create List
-    - Delete List
-    - Add task
-    - Delete task
-    - Edit task
-    - Update status
-    - Drag-Drop tasks among multiple task List
-```
+* Create List
+* Delete List
+* Add task
+* Delete task
+* Edit task
+* Update status
+* Drag-Drop tasks among multiple task List
+
 
 Demo
 
